@@ -1,6 +1,6 @@
 # Privacy Policy for هەنبانە بۆرینە
 
-Effective Date: [Insert Date]
+Effective Date: [03/3/2025]
 
 Welcome to هەنبانە بۆرینە. Your privacy is important to us. This Privacy Policy explains how we handle user data and comply with Google Play policies.
 
