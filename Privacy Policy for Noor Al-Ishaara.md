@@ -19,4 +19,4 @@ This app works offline and **does not connect to the internet for data tracking 
 
 If you have any questions or concerns about this Privacy Policy or the app itself, feel free to contact us:
 
-📧 **Email:** [wallacoding5@gmail.com](mailto:wallacodin4@gmail.com)
+📧 **Email:** [wallacoding5@gmail.com](mailto:wallacodin5@gmail.com)
